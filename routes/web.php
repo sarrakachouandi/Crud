@@ -17,15 +17,15 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/new-login', function () {
-    return view('newLogin');
-});
-Route::get('/new-register', function () {
-    return view('newRegister');
-});
-Route::get('/new-forget', function () {
-    return view('newForget');
-});
+// Route::get('/new-login', function () {
+//     return view('newLogin');
+// });
+// Route::get('/new-register', function () {
+//     return view('newRegister');
+// });
+// Route::get('/new-forget', function () {
+//     return view('newForget');
+// });
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
