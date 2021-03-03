@@ -26,6 +26,10 @@ Route::get('/', function () {
 // Route::get('/new-forget', function () {
 //     return view('newForget');
 // });
+Route::resource('blogs','BlogController');
+
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+// Route::get('/home', 'HomeController@index')->name('home');
+
+

@@ -6,8 +6,8 @@
 	<title>Xtra Blog</title>
 	<link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
 	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/ -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/templatemo-xtra-blog.css" rel="stylesheet">
+    <link href="template/css/bootstrap.min.css" rel="stylesheet">
+    <link href="template/css/templatemo-xtra-blog.css" rel="stylesheet">
 <!--
     
 TemplateMo 553 Xtra Blog
@@ -87,7 +87,7 @@ https://templatemo.com/tm-553-xtra-blog
                     <hr class="tm-hr-primary">
                     <a href="post.html" class="effect-lily tm-post-link tm-pt-60">
                         <div class="tm-post-link-inner">
-                            <img src="img/img-01.jpg" alt="Image" class="img-fluid">                            
+                            <img src="template/img/img-01.jpg" alt="Image" class="img-fluid">                            
                         </div>
                         <span class="position-absolute tm-new-badge">New</span>
                         <h2 class="tm-pt-30 tm-color-primary tm-post-title">Simple and useful HTML layout</h2>
@@ -110,7 +110,7 @@ https://templatemo.com/tm-553-xtra-blog
                     <hr class="tm-hr-primary">
                     <a href="post.html" class="effect-lily tm-post-link tm-pt-60">
                         <div class=" tm-post-link-inner">
-                            <img src="img/img-02.jpg" alt="Image" class="img-fluid">                            
+                            <img src="template/img/img-02.jpg" alt="Image" class="img-fluid">                            
                         </div>
                         <span class="position-absolute tm-new-badge">New</span>
                         <h2 class="tm-pt-30 tm-color-primary tm-post-title">Multi-purpose blog template</h2>
@@ -133,7 +133,7 @@ https://templatemo.com/tm-553-xtra-blog
                     <hr class="tm-hr-primary">
                     <a href="post.html" class="effect-lily tm-post-link tm-pt-20">
                         <div class="tm-post-link-inner">
-                            <img src="img/img-03.jpg" alt="Image" class="img-fluid">
+                            <img src="template/img/img-03.jpg" alt="Image" class="img-fluid">
                         </div>
                         <h2 class="tm-pt-30 tm-color-primary tm-post-title">How can you apply Xtra Blog</h2>
                     </a>                    
@@ -155,7 +155,7 @@ https://templatemo.com/tm-553-xtra-blog
                     <hr class="tm-hr-primary">
                     <a href="post.html" class="effect-lily tm-post-link tm-pt-20">
                         <div class="tm-post-link-inner">
-                            <img src="img/img-04.jpg" alt="Image" class="img-fluid">
+                            <img src="template/img/img-04.jpg" alt="Image" class="img-fluid">
                         </div>
                         <h2 class="tm-pt-30 tm-color-primary tm-post-title">A little restriction to apply</h2>
                     </a>                    
@@ -177,7 +177,7 @@ https://templatemo.com/tm-553-xtra-blog
                     <hr class="tm-hr-primary">
                     <a href="post.html" class="effect-lily tm-post-link tm-pt-20">
                         <div class="tm-post-link-inner">
-                            <img src="img/img-05.jpg" alt="Image" class="img-fluid">
+                            <img src="template/img/img-05.jpg" alt="Image" class="img-fluid">
                         </div>
                         <h2 class="tm-pt-30 tm-color-primary tm-post-title">Color hexa values of Xtra Blog</h2>
                     </a>                    
@@ -201,7 +201,7 @@ https://templatemo.com/tm-553-xtra-blog
                     <hr class="tm-hr-primary">
                     <a href="post.html" class="effect-lily tm-post-link tm-pt-20">
                         <div class="tm-post-link-inner">
-                            <img src="img/img-06.jpg" alt="Image" class="img-fluid">
+                            <img src="template/img/img-06.jpg" alt="Image" class="img-fluid">
                         </div>
                         <h2 class="tm-pt-30 tm-color-primary tm-post-title">Donec convallis varius risus</h2>
                     </a>                    
@@ -255,7 +255,7 @@ https://templatemo.com/tm-553-xtra-blog
             </footer>
         </main>
     </div>
-    <script src="js/jquery.min.js"></script>
-    <script src="js/templatemo-script.js"></script>
+    <script src="template/js/jquery.min.js"></script>
+    <script src="template/js/templatemo-script.js"></script>
 </body>
 </html>
